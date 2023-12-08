@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "sebastian"
+      "value": "1"
     },
     "platformManagementGroup": {
-      "value": "sebastian"
+      "value": "1"
     },
     "IdentityManagementGroup": {
-      "value": "sebastian"
+      "value": "1"
     },
     "managementManagementGroup": {
-      "value": "sebastian"
+      "value": "1"
     },
     "connectivityManagementGroup": {
-      "value": "sebastian"
+      "value": "1"
     },
     "LandingZoneManagementGroup": {
-      "value": "sebastian"
+      "value": "1"
     },
     "enableAMBAConnectivity": {
       "value": "No"
