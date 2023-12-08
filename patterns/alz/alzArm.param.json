@@ -6,31 +6,31 @@
       "value": "contoso"
     },
     "platformManagementGroup": {
-      "value": "contoso-platform"
+      "value": "sebastian"
     },
     "IdentityManagementGroup": {
-      "value": "contoso-identity"
+      "value": "sebastian"
     },
     "managementManagementGroup": {
-      "value": "contoso-management"
+      "value": "sebastian"
     },
     "connectivityManagementGroup": {
-      "value": "contoso-connectivity"
+      "value": "sebastian"
     },
     "LandingZoneManagementGroup": {
-      "value": "contoso-landingzones"
+      "value": "sebastian"
     },
     "enableAMBAConnectivity": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBAIdentity": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBALandingZone": {
       "value": "Yes"
     },
     "enableAMBAManagement": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBAServiceHealth": {
       "value": "Yes"
@@ -49,14 +49,14 @@
           }
         },
         "ALZMonitorResourceGroupLocation": {
-          "value": "eastus"
+          "value": "swedencentral"
         }
       }
     },
     "policyAssignmentParametersServiceHealth": {
       "value": {
         "ALZMonitorActionGroupEmail": {
-          "value": "action@mail.com"
+          "value": "sebastian.thorngren@cygate.se"
         },
         "ResHlthUnhealthyAlertState": {
           "value": "true"
